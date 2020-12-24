@@ -1,7 +1,7 @@
 # Red Wine Exploratory Data Analysis by R
 
 
-*Preview of the html [here](http://htmlpreview.github.io/?https://github.com/anoru/Red-Wine-Exploratory-Data-Analysis-by-R/blob/master/redWineEDA_Anouar.html)*
+*Preview of the html [here](http://htmlpreview.github.io/?https://github.com/alaazarban/EDA_Udacity_Alaa_Zarban/blob/master/projecttemplate.html)*
 
 In this project we will explores the univariate, bivariate, & multivariate
 relationships between variables using exploratory data analysis (EDA)
@@ -10,20 +10,6 @@ techniques in R. To do so we are going to use a
 that is created - using red wine samples - on 2009 by P.cortez and al, 
 the dataset is related to variants of the Portuguese 
 ["Vinho Verde"](https://en.wikipedia.org/wiki/Vinho_Verde) wine.
-
-### About the dataset
-This dataset is public available for research. The details are described in
-[Cortez et al., 2009].
-
-P. Cortez, A. Cerdeira, F. Almeida, T. Matos and J. Reis. 
-Modeling wine preferences by data mining from physicochemical properties.
-In Decision Support Systems, Elsevier, 47(4):547-553. ISSN: 0167-9236.
-
-Available at:
-
-- [Elsevier](http://dx.doi.org/10.1016/j.dss.2009.05.016)
-- [Pre-press (pdf)](http://www3.dsi.uminho.pt/pcortez/winequality09.pdf)
-- [bib](http://www3.dsi.uminho.pt/pcortez/dss09.bib)
 
 
 ### Variable description
